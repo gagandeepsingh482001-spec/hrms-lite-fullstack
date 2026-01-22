@@ -1,0 +1,9 @@
+{
+  "name": "hrms-lite-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Run React dev server here'",
+    "build": "echo 'Build frontend here'"
+  }
+}
